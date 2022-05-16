@@ -20,3 +20,4 @@ import org.springframework.context.annotation.PropertySource
     DevOpsBannerInitializer::class
 )
 class WebAutoConfiguration
+
